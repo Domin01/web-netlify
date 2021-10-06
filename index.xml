@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Domingo</title>
+    <link>https://domin-alejandro.netlify.app/</link>
+    <description>Recent content on Domingo</description>
     <image>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://domin-alejandro.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://domin-alejandro.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Oct 2021 09:07:32 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 09:07:32 +0200</lastBuildDate><atom:link href="https://domin-alejandro.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nuevo Post</title>
-      <link>http://example.org/nuevo-post/</link>
+      <link>https://domin-alejandro.netlify.app/nuevo-post/</link>
       <pubDate>Tue, 05 Oct 2021 09:10:39 +0200</pubDate>
       
-      <guid>http://example.org/nuevo-post/</guid>
+      <guid>https://domin-alejandro.netlify.app/nuevo-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://domin-alejandro.netlify.app/posts/my-first-post/</link>
       <pubDate>Tue, 05 Oct 2021 09:07:32 +0200</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://domin-alejandro.netlify.app/posts/my-first-post/</guid>
       <description></description>
     </item>
     
