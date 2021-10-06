@@ -8,6 +8,7 @@ echo "Se actualizara la pagina estatica..."
 cd ~/Dropbox/2ASIR/Repositorios-GIT/web-netlify
 git add *
 git commit -am "Script"
+git push
 cd ~/Dropbox/2ASIR/Repositorios-GIT/pagina-html
 git add *
 git commit -am "Script"
