@@ -12,15 +12,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Oct 2021 09:07:32 +0200</lastBuildDate><atom:link href="https://domin-alejandro.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nuevo Post</title>
-      <link>https://domin-alejandro.netlify.app/nuevo-post/</link>
-      <pubDate>Tue, 05 Oct 2021 09:10:39 +0200</pubDate>
-      
-      <guid>https://domin-alejandro.netlify.app/nuevo-post/</guid>
-      <description>HOLA </description>
-    </item>
-    
-    <item>
       <title>My First Post</title>
       <link>https://domin-alejandro.netlify.app/posts/my-first-post/</link>
       <pubDate>Tue, 05 Oct 2021 09:07:32 +0200</pubDate>
