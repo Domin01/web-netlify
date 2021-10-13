@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Domingo</title>
+    <title>Domin</title>
     <link>https://domin-alejandro.netlify.app/</link>
-    <description>Recent content on Domingo</description>
+    <description>Recent content on Domin</description>
     <image>
       <url>https://domin-alejandro.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://domin-alejandro.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -12,13 +12,39 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Oct 2021 09:07:32 +0200</lastBuildDate><atom:link href="https://domin-alejandro.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>DEBIAN</title>
+      <link>https://domin-alejandro.netlify.app/tags/</link>
+      <pubDate>Tue, 05 Oct 2021 09:07:32 +0200</pubDate>
+      
+      <guid>https://domin-alejandro.netlify.app/tags/</guid>
+      <description>INFORMACION SOBRE DEBIAN Pagina oficial de debian
+Debian GNU/Linux es un sistema operativo libre, desarrollado por miles de voluntarios de todo el mundo, que colaboran a través de Internet.
+La dedicación de Debian al software libre, su base de voluntarios, su naturaleza no comercial y su modelo de desarrollo abierto la distingue de otras distribuciones del sistema operativo GNU. Todos estos aspectos y más se recogen en el llamado Contrato Social de Debian.</description>
+    </item>
+    
+    <item>
+      <title>EJEMPLO BASICO MARKDOWN</title>
       <link>https://domin-alejandro.netlify.app/posts/my-first-post/</link>
       <pubDate>Tue, 05 Oct 2021 09:07:32 +0200</pubDate>
       
       <guid>https://domin-alejandro.netlify.app/posts/my-first-post/</guid>
-      <description>MI PRIMER POST </description>
+      <description>TITULO SUBTITULO Esto es un ejemplo de texto que da entrada a una lista genérica de elementos:
+ Elemento 1 Elemento 2 Elemento 3  Esto es un ejemplo de texto que da entrada a una lista enumerada:
+ Elemento 1 Elemento 2 Elemento 3  Al texto en Markdown puedes añadirle formato como negrita o cursiva de una manera muy sencilla.
+ Un país, una civilización se puede juzgar por la forma en que trata a sus animales.</description>
     </item>
+    
+    <item>
+      <title>WINDOWS</title>
+      <link>https://domin-alejandro.netlify.app/categories/</link>
+      <pubDate>Tue, 05 Oct 2021 09:07:32 +0200</pubDate>
+      
+      <guid>https://domin-alejandro.netlify.app/categories/</guid>
+      <description>INFORMACION SOBRE WINDOWS Pagina oficial de Windows
+Windows es el nombre de una familia de distribuciones de software para PC, servidores, sistemas empotrados y antiguamente teléfonos inteligentes desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas, tales como x86, x86-64 (x64) y ARM.
+Versiones más usadas  Windows 10 78.89 % Windows 7 15.56 % Windows 8.1 3.46 % Windows XP 0.58 % Windows 8 1.25 % Windows Vista 0.</description>
+    </item>
+    
     
   </channel>
 </rss>

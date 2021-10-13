@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Domingo</title>
+    <title>Posts on Domin</title>
     <link>https://domin-alejandro.netlify.app/posts/</link>
-    <description>Recent content in Posts on Domingo</description>
+    <description>Recent content in Posts on Domin</description>
     <image>
       <url>https://domin-alejandro.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://domin-alejandro.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -12,12 +12,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Oct 2021 09:07:32 +0200</lastBuildDate><atom:link href="https://domin-alejandro.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>EJEMPLO BASICO MARKDOWN</title>
       <link>https://domin-alejandro.netlify.app/posts/my-first-post/</link>
       <pubDate>Tue, 05 Oct 2021 09:07:32 +0200</pubDate>
       
       <guid>https://domin-alejandro.netlify.app/posts/my-first-post/</guid>
-      <description>MI PRIMER POST </description>
+      <description>TITULO SUBTITULO Esto es un ejemplo de texto que da entrada a una lista genérica de elementos:
+ Elemento 1 Elemento 2 Elemento 3  Esto es un ejemplo de texto que da entrada a una lista enumerada:
+ Elemento 1 Elemento 2 Elemento 3  Al texto en Markdown puedes añadirle formato como negrita o cursiva de una manera muy sencilla.
+ Un país, una civilización se puede juzgar por la forma en que trata a sus animales.</description>
     </item>
     
   </channel>
