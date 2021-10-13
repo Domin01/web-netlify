@@ -13,10 +13,10 @@
     <lastBuildDate>Tue, 05 Oct 2021 09:07:32 +0200</lastBuildDate><atom:link href="https://domin-alejandro.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DEBIAN</title>
-      <link>https://domin-alejandro.netlify.app/tags/</link>
+      <link>https://domin-alejandro.netlify.app/linux/linux1/</link>
       <pubDate>Tue, 05 Oct 2021 09:07:32 +0200</pubDate>
       
-      <guid>https://domin-alejandro.netlify.app/tags/</guid>
+      <guid>https://domin-alejandro.netlify.app/linux/linux1/</guid>
       <description>INFORMACION SOBRE DEBIAN Pagina oficial de debian
 Debian GNU/Linux es un sistema operativo libre, desarrollado por miles de voluntarios de todo el mundo, que colaboran a través de Internet.
 La dedicación de Debian al software libre, su base de voluntarios, su naturaleza no comercial y su modelo de desarrollo abierto la distingue de otras distribuciones del sistema operativo GNU. Todos estos aspectos y más se recogen en el llamado Contrato Social de Debian.</description>
@@ -36,15 +36,14 @@ La dedicación de Debian al software libre, su base de voluntarios, su naturalez
     
     <item>
       <title>WINDOWS</title>
-      <link>https://domin-alejandro.netlify.app/categories/</link>
+      <link>https://domin-alejandro.netlify.app/windows/windows1/</link>
       <pubDate>Tue, 05 Oct 2021 09:07:32 +0200</pubDate>
       
-      <guid>https://domin-alejandro.netlify.app/categories/</guid>
+      <guid>https://domin-alejandro.netlify.app/windows/windows1/</guid>
       <description>INFORMACION SOBRE WINDOWS Pagina oficial de Windows
 Windows es el nombre de una familia de distribuciones de software para PC, servidores, sistemas empotrados y antiguamente teléfonos inteligentes desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas, tales como x86, x86-64 (x64) y ARM.
 Versiones más usadas  Windows 10 78.89 % Windows 7 15.56 % Windows 8.1 3.46 % Windows XP 0.58 % Windows 8 1.25 % Windows Vista 0.</description>
     </item>
-    
     
   </channel>
 </rss>

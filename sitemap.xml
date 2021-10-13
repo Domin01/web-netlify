@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://domin-alejandro.netlify.app/tags/</loc>
+    <loc>https://domin-alejandro.netlify.app/linux/linux1/</loc>
     <lastmod>2021-10-05T09:07:32+02:00</lastmod>
   </url>
   
@@ -18,21 +18,27 @@
   </url>
   
   <url>
+    <loc>https://domin-alejandro.netlify.app/linux/</loc>
+    <lastmod>2021-10-05T09:07:32+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://domin-alejandro.netlify.app/posts/</loc>
     <lastmod>2021-10-05T09:07:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://domin-alejandro.netlify.app/categories/</loc>
+    <loc>https://domin-alejandro.netlify.app/windows/windows1/</loc>
+    <lastmod>2021-10-05T09:07:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://domin-alejandro.netlify.app/windows/</loc>
     <lastmod>2021-10-05T09:07:32+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://domin-alejandro.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://domin-alejandro.netlify.app/search/</loc>
   </url>
   
   <url>
